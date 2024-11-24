@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Header with Menu</title>
   <style>
-    /* General styles for the header */
+    /* KENJI_MO */
     body {
       margin: 0;
       font-family: Arial, sans-serif;
