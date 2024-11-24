@@ -7,7 +7,7 @@
   <style>
     /* KENJI_MO */
     body {
-      margin: 0;
+      margin: 300;
       font-family: Arial, sans-serif;
     }
 
@@ -15,8 +15,8 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 10px 20px;
-      background-color: #333;
+      padding: 30px 20px;
+      background-color: #033;
       color: white;
     }
 
